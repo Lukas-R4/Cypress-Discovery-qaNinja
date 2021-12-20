@@ -1,0 +1,23 @@
+<script type="text/javascript">
+
+
+
+
+    var nome = prompt("Qual o seu nome?"); //prompt: input de informações pelo navegador. Todo valor é tipado como STRING
+    var recebeIdade = prompt("Informe sua idade!"); // Variável temporária
+
+    var idade = parseInt(recebeIdade); // Conversão de valores
+
+    console.log(nome);
+    console.log(typeof nome);
+
+    console.log(idade);
+    console.log(typeof idade);
+
+    // Document é uma função de inspeção da página. A partir dele através do getElementById é possível passar a id do span definido anteriormente
+    // E setar o valor da variável nome
+    document.getElementById("nome").innerText = nome;
+    document.getElementById("idade").innerText = idade;
+
+
+</script>
