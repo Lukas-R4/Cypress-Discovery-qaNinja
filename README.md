@@ -3,11 +3,8 @@
 ### https://qaninja.academy/curso/cypress-discovery/_
 
 ### Módulos
+![171120211637166283cypress-techs-v2](https://user-images.githubusercontent.com/46636523/146846962-6f6d456d-8984-41ed-84a9-48b5592954be.png)
 
-* Onboarding
-* Introdução ao JavaScript
-* Projeto Prático em Cypress
-* Continuous Testing
 
 ### Introdução ao Cypress
 
@@ -19,7 +16,7 @@
 * Entendo o Cypress na real e sem rodeios
 * Introdução ao Javascript
 
-###Conhecendo a linguagem universal
+### Conhecendo a linguagem universal
 
 * Variáveis e tipos de dados
 * Controle de fluxos
@@ -28,7 +25,7 @@
 * Loops
 * Objetos
 
-###Automação de ponta a ponta (e2e) 
+### Automação de ponta a ponta (e2e) 
 
 * Conhecendo o Yodapp
 * Planejando testes
@@ -43,8 +40,8 @@
 * Reports com Allure
 * Screenshots
 
-###Integração Contínua
+### Integração Contínua
 
 * Cypress CLI
 * Conhecendo o Github Actions
-* Criação de pipeline de CI* 
+* Criação de pipeline de CI
